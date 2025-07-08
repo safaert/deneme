@@ -12,3 +12,5 @@ git add dosyaİsmi ile içeri aktarılır değişikleri kaydeder
 git add . ile bütün değişikleri kaydeder
 git commit -m "açıklayıcı yazı" ile kaydedilen değişikleri sunucuya aktarılır
 git log ile sunucuya aktarılmaları gösterir
+git log --oneline ile daha kısa şekilde gösterir
+iki nokta gelirse q ya basılmalı
