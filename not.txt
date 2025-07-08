@@ -14,3 +14,4 @@ git commit -m "açıklayıcı yazı" ile kaydedilen değişikleri sunucuya aktar
 git log ile sunucuya aktarılmaları gösterir
 git log --oneline ile daha kısa şekilde gösterir
 iki nokta gelirse q ya basılmalı
+git checkout commitİd -- . ile commitler arasında geçiş yapılır
