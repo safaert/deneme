@@ -8,3 +8,7 @@ clear ile yazı kalabalığı temizlenir
 git init ile klasörün içine gizli .git isminde klasör oluşturulur ve bu klasörde artık git özellikleri kullanılır
 ls -a ile bütün klasör veya dosyalar gözükür 
 git status ile commit yapılmamış değişikleri gösterir
+git add dosyaİsmi ile içeri aktarılır değişikleri kaydeder
+git add . ile bütün değişikleri kaydeder
+git commit -m "açıklayıcı yazı" ile kaydedilen değişikleri sunucuya aktarılır
+git log ile sunucuya aktarılmaları gösterir
