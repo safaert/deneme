@@ -1,0 +1,10 @@
+mkdir  isim => ile klasör oluşturulur
+touch isim.uzantı => ile dosya oluşturulur
+cd .. geri çıkar
+cd isim ile dosyaya girer
+pwd ile konum gösterilir
+ls ile dosyanın içinde ne var onu gösterir klasörleri koyu renkte yazar
+clear ile yazı kalabalığı temizlenir
+git init ile klasörün içine gizli .git isminde klasör oluşturulur ve bu klasörde artık git özellikleri kullanılır
+ls -a ile bütün klasör veya dosyalar gözükür 
+git status ile commit yapılmamış değişikleri gösterir
