@@ -17,3 +17,4 @@ iki nokta gelirse q ya basılmalı
 git checkout commitİd -- . ile commitler arasında geçiş yapılır
 git diff ile yapılan bütün değişiklik gösterilir
 git diff dosyaİsmi ile o dosyadaki değişikleri gösterir
+yapılan bazı değişikleri geri getirmek için git checkout -- dosyaismi
