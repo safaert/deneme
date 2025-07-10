@@ -19,4 +19,8 @@ git diff ile yapılan bütün değişiklik gösterilir
 git diff dosyaİsmi ile o dosyadaki değişikleri gösterir
 yapılan bazı değişikleri geri getirmek için git checkout -- dosyaismi
 git reset HEAD dosyaismi o dosyanın git add  ini iptal eder
-git rm dosyaismi o dosyayı siler
+git rm dosyaismi o dosyayı siler ama öncesinde değişiklikler kaydedilmeli
+git rm -r klasörismi/ ile klasör silinir
+git mv dosyaismi değişmişismi ile dosyanın ismi değiştirilir
+git mv gideceği/konum şeklinde dosya taşınır
+git mv değişmişismi gideceği/konum şeklinde dosya taşınır ve ismi değişir
