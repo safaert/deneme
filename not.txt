@@ -24,3 +24,7 @@ git rm -r klasörismi/ ile klasör silinir
 git mv dosyaismi değişmişismi ile dosyanın ismi değiştirilir
 git mv gideceği/konum şeklinde dosya taşınır
 git mv değişmişismi gideceği/konum şeklinde dosya taşınır ve ismi değişir
+git config --global alias.isim kod kod yerine o ismi yazmak o kodu çalıştırır örneğin status yerine st yazmak
+git remote add isim sunucuUzantı depoya bağlanılır
+git remote ile depodaki klasör gözükür
+git push ile dosyalar sunucuya aktarılır
