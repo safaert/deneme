@@ -27,4 +27,6 @@ git mv değişmişismi gideceği/konum şeklinde dosya taşınır ve ismi deği�
 git config --global alias.isim kod kod yerine o ismi yazmak o kodu çalıştırır örneğin status yerine st yazmak
 git remote add isim sunucuUzantı depoya isim adında klasör oluşur
 git remote ile depodaki klasör gözükür
-git push -u isim branchİsim ile dosyalar sunucudaki isim klasörüne aktarılır
+git push -u depodakiKlasörİsim branchİsim ile dosyalar sunucudaki isim klasörüne aktarılır
+git üzerinden depoda yeni bir klasör oluşturulursa veya farklı bir klasör varsa bunların çekilmediği sürece görünmez
+git pull ile yapılır bu
