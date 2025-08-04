@@ -30,3 +30,7 @@ git remote ile depodaki klasör gözükür
 git push -u depodakiKlasörİsim branchİsim ile dosyalar sunucudaki isim klasörüne aktarılır
 git üzerinden depoda yeni bir klasör oluşturulursa veya farklı bir klasör varsa bunların çekilmediği sürece görünmez
 git pull ile yapılır bu
+ismi .gitignore isimli bir dosya oluşturulurduktan sonra içine uzantısıyla birlikte yazılın dosya isimlerini
+git e eklenmez yani istenmeyen dosyalar yüklenmez 
+belli bir dosyadan sonrakilerin yüklenmesi istenmiyorsa .gitignore dosyasının içine dosya ismi yazılıp /* konmalı
+eğer seçilenler arasında yüklenmesi gereken varsa !dosyaismi/deneme.txt şeklinde yapılır deneme yüklenir
